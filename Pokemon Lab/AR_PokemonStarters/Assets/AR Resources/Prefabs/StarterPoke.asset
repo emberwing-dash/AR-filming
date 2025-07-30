@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: StarterPoke
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4985734786660493247
+  m_GuidHigh: 17998915482661899671
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5170527705040302255
+      m_GuidHigh: 7696496430080109486
+    m_SerializedTextureGuid:
+      m_GuidLow: 12291697217959982465
+      m_GuidHigh: 16547272704939296120
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Charmander
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5400448406025808999
+      m_GuidHigh: 15689224777702716590
+    m_SerializedTextureGuid:
+      m_GuidLow: 1780191637119988598
+      m_GuidHigh: 13338601501175768104
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Bulbasaur
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4787074358877502987
+      m_GuidHigh: 858555866747121594
+    m_SerializedTextureGuid:
+      m_GuidLow: 16552087352900641955
+      m_GuidHigh: 1354535300794120682
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Squirtle
+    m_Texture: {fileID: 0}
